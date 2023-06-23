@@ -14,3 +14,8 @@ setInterval(()=>{
     console.log('hello world')
 }, 1000)
 
+function multiply_fun() {
+    amount*2
+}
+console.log(multiply_fun())
+
